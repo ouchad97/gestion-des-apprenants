@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\bin\Debug\Scolaire.exe.config
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\bin\Debug\Scolaire.exe
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\bin\Debug\Scolaire.pdb
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\obj\Debug\Scolaire.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\obj\Debug\Scolaire.Properties.Resources.resources
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\obj\Debug\Scolaire.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\obj\Debug\Scolaire.exe
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\obj\Debug\Scolaire.pdb
+C:\Users\Admin\Desktop\cSharp\Scolaire\Scolaire\obj\Debug\Scolaire.Form1.resources
